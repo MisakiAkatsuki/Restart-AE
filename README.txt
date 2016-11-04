@@ -16,4 +16,6 @@
   Windows版 Adobe After Effects CS5以上
 
 バージョン情報
+  2015/6/16 Ver 1.1.0
+    CC 2015に対応
   2015/2/23 Ver 1.0.0
